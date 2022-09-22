@@ -1,0 +1,317 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 33540,
+      "max": [
+        30.612037658691406,
+        27.460844039916992,
+        188.42276000976563
+      ],
+      "min": [
+        -37.960601806640625,
+        -45.21523666381836,
+        -0.00077056884765625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 402480,
+      "componentType": 5126,
+      "count": 33540,
+      "max": [
+        0.9999868273735046,
+        0.9998759627342224,
+        0.9999984502792358
+      ],
+      "min": [
+        -0.999990701675415,
+        -0.999995231628418,
+        -0.9999942183494568
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 33540,
+      "max": [
+        0.9999678134918213,
+        0.9999953508377075,
+        0.9999592304229736,
+        1.0
+      ],
+      "min": [
+        -0.9999604225158691,
+        -0.9999321699142456,
+        -0.9999992847442627,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 33540,
+      "max": [
+        0.9978200197219849,
+        0.9950399994850159
+      ],
+      "min": [
+        0.0028699999675154686,
+        0.0019499999471008778
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 268320,
+      "componentType": 5126,
+      "count": 33540,
+      "max": [
+        0.9978200197219849,
+        0.9950399994850159
+      ],
+      "min": [
+        0.0028699999675154686,
+        0.0019499999471008778
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 180072,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "qzww529 (https://sketchfab.com/qzww529)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/man-man-american-man-t-shirt-shirt-44023b75c7054eb79bd39110e9b4960d",
+      "title": "Man Man American man T-shirt Shirt"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 720288,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 536640,
+      "byteOffset": 720288,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 804960,
+      "byteOffset": 1256928,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 536640,
+      "byteOffset": 2061888,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2598528,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr_BlendMaterial_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr_BlendMaterial_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr_BlendMaterial",
+      "normalTexture": {
+        "index": 1,
+        "texCoord": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8929713596497552
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr_GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr_BlendMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.9396926264280235,
+        0.0,
+        -0.3420201278240845,
+        0.0,
+        -0.3420201278240689,
+        3.0199160805377545e-07,
+        -0.9396926264279807,
+        0.0,
+        1.0328720839725136e-07,
+        0.9999999999999544,
+        2.8377928740219716e-07,
+        0.0,
+        1.4292693138122559,
+        -0.06339391320943832,
+        2.439762592315674,
+        1.0
+      ],
+      "name": "GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.4981460571289063,
+        -5.335787296295166,
+        -0.12028377503156662,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "mesh": 0,
+      "name": "GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr_GTP_CMan_Smr_Jack_06_Wk_Exp_Adl_Ccs_Mgr_BlendMaterial_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
