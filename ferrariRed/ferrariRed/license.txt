@@ -1,0 +1,11 @@
+Model Information:
+* title:	Formula 1 Ferrari 312T 1976
+* source:	https://sketchfab.com/3d-models/formula-1-ferrari-312t-1976-6a9e1d343432432682e566f18fbf7592
+* author:	AceDPFire (https://sketchfab.com/AceDPFire)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Formula 1 Ferrari 312T 1976" (https://sketchfab.com/3d-models/formula-1-ferrari-312t-1976-6a9e1d343432432682e566f18fbf7592) by AceDPFire (https://sketchfab.com/AceDPFire) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
