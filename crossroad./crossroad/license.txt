@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crossroad
+* source:	https://sketchfab.com/3d-models/crossroad-b413fa9910da40e0a5973b57f15697c7
+* author:	Evanbl (https://sketchfab.com/Evanbl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crossroad" (https://sketchfab.com/3d-models/crossroad-b413fa9910da40e0a5973b57f15697c7) by Evanbl (https://sketchfab.com/Evanbl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
