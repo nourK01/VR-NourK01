@@ -1,0 +1,11 @@
+Model Information:
+* title:	50_5 hour hand
+* source:	https://sketchfab.com/3d-models/50-5-hour-hand-d1bdc2cca6d14d8990fd04f309a9df2c
+* author:	mongoose.dog (https://sketchfab.com/mongoose.dog)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "50_5 hour hand" (https://sketchfab.com/3d-models/50-5-hour-hand-d1bdc2cca6d14d8990fd04f309a9df2c) by mongoose.dog (https://sketchfab.com/mongoose.dog) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

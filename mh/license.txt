@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minute Hand for Clock
+* source:	https://sketchfab.com/3d-models/minute-hand-for-clock-126fa7825d324b96815d8564c08a4f81
+* author:	StructureTree Canada (https://sketchfab.com/structuretree)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minute Hand for Clock" (https://sketchfab.com/3d-models/minute-hand-for-clock-126fa7825d324b96815d8564c08a4f81) by StructureTree Canada (https://sketchfab.com/structuretree) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
