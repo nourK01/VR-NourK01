@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-Poly ADAR 2-15
+* source:	https://sketchfab.com/3d-models/low-poly-adar-2-15-292ca7f58a254f2c96a014599102e816
+* author:	notcplkerry (https://sketchfab.com/notcplkerry)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-Poly ADAR 2-15" (https://sketchfab.com/3d-models/low-poly-adar-2-15-292ca7f58a254f2c96a014599102e816) by notcplkerry (https://sketchfab.com/notcplkerry) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
