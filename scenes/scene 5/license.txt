@@ -1,0 +1,11 @@
+Model Information:
+* title:	WIP - Gallery v0003
+* source:	https://sketchfab.com/3d-models/wip-gallery-v0003-d6e6e7e711494ae496ed2a114b652743
+* author:	Zabes (https://sketchfab.com/zeynep.abes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "WIP - Gallery v0003" (https://sketchfab.com/3d-models/wip-gallery-v0003-d6e6e7e711494ae496ed2a114b652743) by Zabes (https://sketchfab.com/zeynep.abes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
