@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ceiling Lamp
+* source:	https://sketchfab.com/3d-models/ceiling-lamp-6d0200ce199b4c8e8645c2888731771d
+* author:	MelaSoliToll (https://sketchfab.com/MelaSoliToll)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ceiling Lamp" (https://sketchfab.com/3d-models/ceiling-lamp-6d0200ce199b4c8e8645c2888731771d) by MelaSoliToll (https://sketchfab.com/MelaSoliToll) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
