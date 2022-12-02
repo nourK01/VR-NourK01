@@ -1,0 +1,11 @@
+Model Information:
+* title:	CAPACITOR
+* source:	https://sketchfab.com/3d-models/capacitor-23717e8270c84cf09f7773da1ffa671d
+* author:	UI CMD (https://sketchfab.com/UI_CMD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CAPACITOR" (https://sketchfab.com/3d-models/capacitor-23717e8270c84cf09f7773da1ffa671d) by UI CMD (https://sketchfab.com/UI_CMD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
