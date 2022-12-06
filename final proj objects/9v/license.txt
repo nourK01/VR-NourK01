@@ -1,0 +1,11 @@
+Model Information:
+* title:	[CC0] Generic 9V Battery
+* source:	https://sketchfab.com/3d-models/cc0-generic-9v-battery-05e70a17e01a4be08381afe2128284e9
+* author:	Lara Sophie Schütt (https://sketchfab.com/literallylara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[CC0] Generic 9V Battery" (https://sketchfab.com/3d-models/cc0-generic-9v-battery-05e70a17e01a4be08381afe2128284e9) by Lara Sophie Schütt (https://sketchfab.com/literallylara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
